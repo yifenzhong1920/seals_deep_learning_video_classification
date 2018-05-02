@@ -28,3 +28,10 @@ We anticipate:
 3. Ensembled video model should outperform
 4. Adding data augmentations should improve performance
 
+## Setup
+
+The model was trained on an aws `p2.xlarge` instance with the nvidia deep learning ami`.
+
+The anaconda 3 python distribution was used with the latest versions of all dependencies as at 01/05/2018. 
+
+Just `pip install lib_name_here` for anything not already installed.
