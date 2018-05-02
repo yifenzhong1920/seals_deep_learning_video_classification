@@ -11,12 +11,12 @@ Models:
 * [x] CNN: VGG
 * [x] CNN: ResNet
 * [X] CNN: XCeption
+* [ ] CNN: Ensemble
+* [ ] VIDEO: LSTM on top of CNN encoded frames
+* [ ] VIDEO: CNN on top of CNN encoded frames
 * [ ] OBJ DETECTION: FR-CNN
 * [ ] OBJ DETECTION: YOLO V4
 * [ ] OBJ DETECTION: Facebook Detectron Lib Algos
-* [ ] VIDEO: LSTM on top of CNN frames
-* [ ] VIDEO: CNN on top of CNN frames
-* [ ] CNN: Ensemble
 * [ ] META: Ensembled CNN model applied to detected object regions from best OBJ detection model
 
 If we have time (lol):
