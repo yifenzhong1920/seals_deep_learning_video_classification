@@ -2,7 +2,12 @@
 
 This repository contains all code related to research into streaming video classification and object detection for the particular application of detecting seals in underwater video streams from the back of boats out at sea. 
 
-Models done:
+## Researchers:
+* Dr. Ian Durbach (UCT, AIMS)
+* Alex Conway (UCT, NumberBoost)
+
+## Progress 
+Models:
 * [x] CNN: VGG
 * [x] CNN: ResNet
 * [X] CNN: XCeption
